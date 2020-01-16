@@ -1,0 +1,16 @@
+[
+  {
+    "name": "wojtek",
+    "room": 1,
+    "air_condition": 0,
+    "custom": 1,
+    "music": "music/music1.mp3"
+  },
+  {
+    "name": "kamil",
+    "room": 2,
+    "air_condition": 1,
+    "custom": 1,
+    "music": "music/music2.mp3"
+  }
+]

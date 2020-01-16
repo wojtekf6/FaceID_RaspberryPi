@@ -1,0 +1,7 @@
+{
+  "cascade": "haarcascade_frontalface_default.xml",
+  "encodings": "encodings.pickle",
+  "detection-method": "hog",
+  "dataset": "dataset",
+  "test": false
+}
